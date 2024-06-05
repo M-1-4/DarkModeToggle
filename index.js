@@ -27,8 +27,10 @@ inputE1.addEventLister
 
 function updateLocalStorage(){
     localStorage.setItem("mode",
-    JSON.stringify(inputE1.checked)
+    JSON.stringify(inputE1.checked))
 }
+
+
 
 
 
