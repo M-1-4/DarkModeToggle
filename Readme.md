@@ -32,3 +32,4 @@ Open the `index.html` file in your preferred web browser to see the dark mode to
 - `index.html`: The main HTML file containing the structure of the web page.
 - `style.css`: The CSS file for styling the web page, including the dark mode styles.
 - `index.js`: The JavaScript file that handles the dark mode toggle functionality.
+
